@@ -18,14 +18,11 @@
 
 ## About Me
 
-I'm a Full Stack Engineer with ~5 years of experience building production-grade SaaS platforms, LegalTech systems, and sustainability tools. Currently completing an **MSc in Software Engineering** at Leeds Beckett University while shipping real products.
+Full Stack Engineer with **4+ years** of experience building and deploying production-grade web and mobile applications. Strong background in scalable REST APIs, real-time systems, and data-driven platforms — including geospatial and AI-powered products.
 
-My focus is backend-leaning full stack work — I care about systems that scale, APIs that are clean, and products that actually solve problems. I've been a first engineering hire at multiple early-stage startups, which means I'm comfortable going from zero to production under real constraints.
+I've been a first or sole engineer at multiple early-stage startups, owning systems end-to-end from architecture through to cloud deployment on AWS. Backend-leaning full stack with a track record of shipping things that work in production.
 
-- 🏗️ Currently building **[SmartSustain](https://github.com/boluwatifeajayi)** — a planning-grade Location Sustainability Index (LSI) platform for West Yorkshire housing development assessment
-- 🎓 MSc Software Engineering @ Leeds Beckett University (2025)
-- 🔭 Also building **SkulBee** — a multi-tenant School Management ERP SaaS in Node.js/TypeScript/Prisma/PostgreSQL
-- 📍 Based in Leeds, UK
+📍 Leeds, UK
 
 ---
 
@@ -36,86 +33,52 @@ My focus is backend-leaning full stack work — I care about systems that scale,
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**Frontend**
+**Frontend & Mobile**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
 
 **Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
-## Featured Projects
+## Experience
 
-### 🌍 SmartSustain
-> Planning-grade sustainability assessment platform for UK housing development
-
-A Location Sustainability Index (LSI) tool used for real West Yorkshire planning analysis. Covers **Leeds (1,664 sites)** and **Bradford (364 sites)** with Wakefield, Calderdale, and Kirklees in the pipeline. Features GIS scoring, PDF report generation, and an interactive map interface.
-
-`Node.js` `React` `PostgreSQL` `GIS` `Python` `PDF Generation`
-
----
-
-### 🏫 SkulBee
-> Multi-tenant School Management ERP SaaS
-
-A fully multi-tenant ERP system for school management — built from scratch with clean architecture, role-based access control, and a service-oriented backend.
-
-`Node.js` `TypeScript` `Express` `Prisma` `PostgreSQL` `Multi-tenancy`
-
----
-
-### 🏠 NaijaNest
-> Property listing platform for the Nigerian market
-
-`React` `Node.js` `MongoDB`
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Bolu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=boluwatifeajayi&show_icons=true&theme=dark&hide_border=true&bg_color=0f2027&title_color=4FC3F7&icon_color=4FC3F7&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boluwatifeajayi&layout=compact&theme=dark&hide_border=true&bg_color=0f2027&title_color=4FC3F7&text_color=ffffff)
-
-</div>
-
----
-
-## Experience Snapshot
-
-| Role | Company | Focus |
-|------|---------|-------|
-| Full Stack Engineer | CGLS Technology | SaaS & sustainability platforms |
-| Frontend Engineer | Auqli | E-commerce & real-time systems |
-| Software Engineer | Mylegalsoftware | LegalTech |
-| Full Stack Engineer | Innoteris | Data & analytics |
-| Engineer | Falcon Aerospace | Systems engineering |
-| Full Stack Engineer | Villaja | Marketplace platform |
+| Role | Company | Period |
+|------|---------|--------|
+| Full Stack Engineer (Contract) | CGLS Technology · Leeds | Dec 2025 – Present |
+| Full Stack Engineer | Auqli · Remote | Oct 2024 – Present |
+| Frontend Engineer | Innoteris · Remote | Apr 2024 – Jul 2025 |
+| Frontend Engineer | Mylegalsoftware · Remote | Nov 2023 – May 2025 |
+| Frontend Engineer | Falcon Aerospace · Hybrid | Sep 2021 – Nov 2024 |
+| Software Engineer (Contract) | Villaja · Remote | 2022 – 2023 |
 
 ---
 
 <div align="center">
 
-*Open to full-time roles, collaborations, and interesting problems.*
+*Open to full-time roles, contract work, and interesting problems worth solving.*
 **Let's build something worth shipping.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=80&section=footer" width="100%"/>
