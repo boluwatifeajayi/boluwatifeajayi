@@ -63,18 +63,6 @@ I've been a first or sole engineer at multiple early-stage startups, owning syst
 
 ---
 
-## Experience
-
-| Role | Company | Period |
-|------|---------|--------|
-| Full Stack Engineer (Contract) | CGLS Technology · Leeds | Dec 2025 – Present |
-| Full Stack Engineer | Auqli · Remote | Oct 2024 – Present |
-| Frontend Engineer | Innoteris · Remote | Apr 2024 – Jul 2025 |
-| Frontend Engineer | Mylegalsoftware · Remote | Nov 2023 – May 2025 |
-| Frontend Engineer | Falcon Aerospace · Hybrid | Sep 2021 – Nov 2024 |
-| Software Engineer (Contract) | Villaja · Remote | 2022 – 2023 |
-
----
 
 <div align="center">
 
