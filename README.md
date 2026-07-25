@@ -7,10 +7,16 @@
 
 **Building SaaS products, real-time systems, and sustainability tech from Leeds, UK 🇬🇧**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-boluajayi.netlify.app-0f2027?style=for-the-badge&logo=vercel&logoColor=white)](https://boluajayi.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-boluajayi.tech-0f2027?style=for-the-badge&logo=vercel&logoColor=white)](https://boluajayi.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bolu--ajayi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bolu-ajayi)
 [![GitHub](https://img.shields.io/badge/GitHub-boluwatifeajayi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/boluwatifeajayi)
 [![Email](https://img.shields.io/badge/Email-bolu4good@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bolu4good@gmail.com)
+
+[![Twitter](https://img.shields.io/badge/Twitter-@boluajayi-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/boluajayi)
+[![Instagram](https://img.shields.io/badge/Instagram-@boluajayi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/boluajayi)
+[![Dev.to](https://img.shields.io/badge/dev.to-@boluajayi-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/boluajayi)
+
+<img src="https://komarev.com/ghpvc/?username=boluwatifeajayi&label=Profile%20Views&color=0f2027&style=flat-square" alt="Profile views"/>
 
 </div>
 
@@ -18,7 +24,7 @@
 
 ## About Me
 
-Full Stack Engineer with **4+ years** of experience building and deploying production-grade web and mobile applications. Strong background in scalable REST APIs, real-time systems, and data-driven platforms — including geospatial and AI-powered products.
+Full Stack Engineer with **5+ years** of experience building and deploying production-grade web and mobile applications. Strong background in scalable REST APIs, real-time systems, and data-driven platforms — including geospatial and AI-powered products.
 
 I've been a first or sole engineer at multiple early-stage startups, owning systems end-to-end from architecture through to cloud deployment on AWS. Backend-leaning full stack with a track record of shipping things that work in production.
 
@@ -60,6 +66,60 @@ I've been a first or sole engineer at multiple early-stage startups, owning syst
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+## 🎯 Current Focus
+
+My focus right now revolves around continuous learning and sharpening the skills that make me a stronger backend-leaning engineer. I'm actively engaged in:
+
+- 🧮 **Data Structures & Algorithms** — sharpening fundamentals through consistent practice
+- 🌱 **Open Source** — contributing to projects and giving back to the developer community
+- 🤖 **AI-Powered Backend Systems** — exploring how LLMs fit into production architectures
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=boluwatifeajayi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=boluwatifeajayi&theme=tokyonight&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=boluwatifeajayi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-trophies.vercel.app/?username=boluwatifeajayi&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
+
+</div>
+
+---
+
+## 🎨 Hobbies
+
+In my free time, I enjoy:
+
+- 🎮 Gaming
+- 🍔 Eating
+- 📚 Learning
+- 🏋️ Working out
+
+---
+
+## 🎲 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+</div>
 
 ---
 
