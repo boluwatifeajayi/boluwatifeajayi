@@ -7,15 +7,6 @@
 
 **Building SaaS products, real-time systems, and sustainability tech from Leeds, UK 🇬🇧**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-boluajayi.tech-0f2027?style=for-the-badge&logo=vercel&logoColor=white)](https://boluajayi.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bolu--ajayi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bolu-ajayi)
-[![GitHub](https://img.shields.io/badge/GitHub-boluwatifeajayi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/boluwatifeajayi)
-[![Email](https://img.shields.io/badge/Email-bolu4good@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bolu4good@gmail.com)
-
-[![Twitter](https://img.shields.io/badge/Twitter-@boluajayi-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/boluajayi)
-[![Instagram](https://img.shields.io/badge/Instagram-@boluajayi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/boluajayi)
-[![Dev.to](https://img.shields.io/badge/dev.to-@boluajayi-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/boluajayi)
-
 <img src="https://komarev.com/ghpvc/?username=boluwatifeajayi&label=Profile%20Views&color=0f2027&style=flat-square" alt="Profile views"/>
 
 </div>
