@@ -3,11 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header" width="100%"/>
 
 # Boluwaife (Bolu) Ajayi
-### Full Stack Engineer · Node.js · React · Python
+### Software Engineer · Full Stack, Backend & AI Systems
 
 **Building SaaS products, real-time systems, and sustainability tech from Leeds, UK 🇬🇧**
-
-<img src="https://komarev.com/ghpvc/?username=boluwatifeajayi&label=Profile%20Views&color=0f2027&style=flat-square" alt="Profile views"/>
 
 </div>
 
@@ -15,11 +13,7 @@
 
 ## About Me
 
-Full Stack Engineer with **5+ years** of experience building and deploying production-grade web and mobile applications. Strong background in scalable REST APIs, real-time systems, and data-driven platforms — including geospatial and AI-powered products.
-
-I've been a first or sole engineer at multiple early-stage startups, owning systems end-to-end from architecture through to cloud deployment on AWS. Backend-leaning full stack with a track record of shipping things that work in production.
-
-📍 Leeds, UK
+Software engineer with **6+ years** building and operating production systems end to end: full stack product delivery, backend architecture, and cloud infrastructure.
 
 ---
 
@@ -55,70 +49,33 @@ I've been a first or sole engineer at multiple early-stage startups, owning syst
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
-My focus right now revolves around continuous learning and sharpening the skills that make me a stronger backend-leaning engineer. I'm actively engaged in:
-
-- 🧮 **Data Structures & Algorithms** — sharpening fundamentals through consistent practice
-- 🌱 **Open Source** — contributing to projects and giving back to the developer community
-- 🤖 **AI-Powered Backend Systems** — exploring how LLMs fit into production architectures
+- LLM systems in production: retrieval, evaluation, agent workflows
+- Distributed systems: Kubernetes, event-driven architecture, observability
+- Open source: merged contributions to AWS CDK's RDS module
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=boluwatifeajayi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=boluwatifeajayi&theme=tokyonight&hide_border=true" width="48%"/>
-
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=boluwatifeajayi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
 <div align="center">
-
-<img src="https://github-trophies.vercel.app/?username=boluwatifeajayi&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
-
-</div>
-
----
-
-## 🎨 Hobbies
-
-In my free time, I enjoy:
-
-- 🎮 Gaming
-- 🍔 Eating
-- 📚 Learning
-- 🏋️ Working out
-
----
-
-## 🎲 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-</div>
-
----
-
-
-<div align="center">
-
-*Open to full-time roles, contract work, and interesting problems worth solving.*
-**Let's build something worth shipping.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=80&section=footer" width="100%"/>
 
