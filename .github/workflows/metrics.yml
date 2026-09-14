@@ -29,15 +29,26 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 7.5
           output_action: none
 
-      - name: Strip "Pull requests reviewed" stat
+      - name: Get real PR review count
+        id: reviews
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: |
+          COUNT=$(gh api graphql -f query='query { search(query: "is:pr reviewed-by:boluwatifeajayi", type: ISSUE) { issueCount } }' -q .data.search.issueCount)
+          echo "count=$COUNT" >> "$GITHUB_OUTPUT"
+
+      - name: Fix "Pull requests reviewed" stat
+        env:
+          REVIEW_COUNT: ${{ steps.reviews.outputs.count }}
         run: |
           python3 - <<'EOF'
-          import re
+          import os, re
+          count = os.environ["REVIEW_COUNT"]
           with open("/metrics_renders/github-metrics.svg", encoding="utf-8") as f:
               content = f.read()
           content = re.sub(
-              r'<div class="field">\s*<svg[^>]*>.*?</svg>\s*\d+ Pull requests reviewed\s*</div>',
-              "",
+              r'(<div class="field">\s*<svg[^>]*>.*?</svg>\s*)\d+( Pull requests reviewed\s*</div>)',
+              lambda m: f"{m.group(1)}{count}{m.group(2)}",
               content,
               flags=re.DOTALL,
           )
