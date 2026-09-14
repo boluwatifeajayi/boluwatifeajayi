@@ -1,10 +1,4 @@
-<div align="center">
-
-# Bolu Ajayi
-
 Software engineer with **6+ years** building and operating production systems end to end: full stack product delivery, backend architecture, and cloud infrastructure.
-
-</div>
 
 ---
 
@@ -30,17 +24,4 @@ Software engineer with **6+ years** building and operating production systems en
 
 ## GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=boluwatifeajayi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=boluwatifeajayi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=80&section=footer" width="100%"/>
-
-</div>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=boluwatifeajayi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=boluwatifeajayi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%"/>
